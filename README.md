@@ -1,7 +1,7 @@
 # TicTacToe
 
 TicTacToe web application.
-Have a look-[TicTacToe](https://tictactoe.herokuapp.com/).
+Have a look-[TicTacToe](https://tictactoe-hiver.herokuapp.com/).
 
 ## Built With
 
@@ -13,8 +13,8 @@ Have a look-[TicTacToe](https://tictactoe.herokuapp.com/).
 
 
 ## Installation:
-1. git clone https://github.com/tejas002/tictactoe.git
-2. cd tictactoe-master
+1. git clone https://github.com/tejas002/TicTacToe.git
+2. cd TicTacToe-master
 3. npm install
 ```
 $npm install
