@@ -2,6 +2,9 @@
 
 TicTacToe web application.
 Have a look-[TicTacToe](https://tictactoe-hiver.herokuapp.com/).
+Default mode is player.
+Click on play with computer to play with computer.
+Computer moves are random.
 
 ## Built With
 
