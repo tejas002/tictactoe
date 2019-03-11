@@ -6,13 +6,17 @@
 
 .gridTop{
     border-color: "#f44336";
-    border: '1px solid red';
+    border: 1px solid black;
     display: flex;
     flex-direction: column;
 }
 
 .lightBackground {
     background-color: 00FFFF
+}
+
+.borderClass{
+    border : 1px black solid
 }
 
 .columnsStyle {

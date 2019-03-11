@@ -38,11 +38,11 @@ function getRowBoxes(colIdx) {
     let rowDivs = '';
 
     for (let rowIdx = 0; rowIdx < GRID_LENGTH; rowIdx++) {
-        let additionalClass = 'darkBackground';
+        let additionalClass = 'darkBackground borderClass';
         let content = '';
         const sum = colIdx + rowIdx;
         if (sum % 2 === 0) {
-            additionalClass = 'lightBackground'
+            additionalClass = 'lightBackground borderClass'
         }
         const gridValue = grid[colIdx][rowIdx];
         if (gridValue === 1) {
